@@ -1,0 +1,82 @@
+
+.crear{
+    font-family: sans-serif;
+    width: 100%;
+    text-transform: uppercase;
+    background: #9C254D;
+    background-size: cover ;
+    padding-top: 200px;
+}
+.cont{
+    width: 30%;
+    margin: 0 auto;
+    background: url(https://ca-times.brightspotcdn.com/dims4/default/9519f14/2147483647/strip/true/crop/8276x5517+0+0/resize/1486x991!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7e%2Fc7%2Fc498f71f4cb78d09e0846c8318a4%2Fsoccer-wcup-qatar-tickets-48888.jpg)no-repeat 0px 0px ;
+    background-size: cover;
+    background-position: center;
+    padding: 30px 33px 67px;
+    border-top: 6px solid rgb(212, 175, 55);
+    box-shadow: 0px 35px 44 px -22 rgba(0, 0, 0, 0.72);
+}
+.dbotones{
+    float: right;
+}
+
+H2{
+    text-align: center;
+}
+
+.subirImagen{
+     
+    text-align: center;
+    border: 5px dashed #ddd;
+    height: auto;
+    width: 600px;
+    margin: auto;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.centro{
+    background-position: center;
+}
+
+.iconoImagen{
+    text-align: center;
+    
+}
+
+.table2{
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+td,th,tr{
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+.tablafinal{
+    height: auto;
+    width: auto;
+    margin: auto;
+    color: rgb(0, 0, 0);
+    background-color: #B9E0FF;
+}
+.fase_final_cuerpo{
+    /*background-image: url(https://media-es.almayadeen.tv/archive/image/2020/6/16/1be58323-037b-442b-8cb3-f3022d06a001.png);*/
+    background-size: cover;
+    background-color: #B9E0FF;
+}
+.caja{
+    display: table-cell;
+    padding: 10px;
+    text-align: center;
+    height: auto;
+    width: 1000px;
+    margin: auto;
+}
+
